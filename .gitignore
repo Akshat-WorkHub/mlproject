@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Unnecessary Files
+prac.py
+
 # C extensions
 *.so
 
